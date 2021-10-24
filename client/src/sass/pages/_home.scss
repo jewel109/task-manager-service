@@ -1,0 +1,35 @@
+.main-and-sidebar {
+	margin-top: 2.5rem;
+	display: flex;
+	.main-for-task {
+		margin-left: 6.6rem;
+		h2 {
+			margin-bottom: 1rem;
+		}
+
+		.task-tags {
+			display: flex;
+
+			.task-lists {
+				p {
+					font-weight: 300;
+					font-size: 0.3rem;
+				}
+			}
+
+			span {
+				margin: 0;
+				padding: 0;
+				display: inline-flex;
+				font-size: 0.1rem;
+				margin-left: 0.3rem;
+				padding: 0.1rem 0.6rem;
+				border-radius: 0.2rem;
+				background-color: var(--success-2);
+				font-weight: 600;
+				color: var(--text-light-1);
+				box-sizing: border-box;
+			}
+		}
+	}
+}

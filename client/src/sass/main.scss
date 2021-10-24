@@ -1,0 +1,22 @@
+// importing abstraction
+@import "abstracts/variables", "abstracts/_functions.scss",
+	"abstracts/_mixins.scss";
+
+// 2 importing vendors such as [normalize]/[reset]
+
+// 3  base stuff
+
+@import "base/resets", "base/typography";
+
+// 4 layout stuff
+@import "layouts/header.scss", "layouts/forms.scss", "layouts/sidebar.scss",
+	"layouts/footer.scss";
+
+// 5 components
+@import "components/button";
+
+// 6 page styles
+@import "pages/home";
+
+// 7 theme
+//@import 'themes/';

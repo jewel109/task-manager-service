@@ -1,0 +1,50 @@
+:root {
+	//color
+	--body-color: hsl(0, 90%, 12%);
+	--body-color-alt: hsla(0, 89%, 14%, 0.856);
+	--darker-color:hsl(262, 64%, 49%);
+	--main-color:hsl(263, 67%, 56%);
+	--lighter-color:hsl(262, 98%, 72%);
+	
+
+	//text-color
+	--text-dartk-1:hsl(237, 19%, 82%);
+	--text-dark-2: hsl(235, 12%, 60%);
+	--text-dark-3:hsl(236, 14%, 38%) ;
+	--text-dark-4:hsl(237, 21%, 20%) ;
+	--text-dark-5: ;
+	//text-light-color
+	--text-light-1: hsl(0, 0%, 100%);
+	--text-light-2: hsl(240, 25%, 98%);
+	--text-light-3:hsl(240, 13%, 95%) ;
+	--text-light-4: hsl(240, 14%, 93%);
+	--text-light-5:hsl(232, 16%, 91%) ;
+
+	//semantic color
+	//success
+	--success-1: hsl(113, 92%, 91%);
+	--success-2: hsl(126, 76%, 70%);
+	--success-3: hsl(138, 70%, 46%);
+	--success-4: hsl(155, 82%, 25%);
+
+	//pending
+	--pending-1:hsl(197, 95%, 92%) ;
+	--pending-2: hsl(200, 95%, 85%);
+	--pending-3:hsl(207, 98%, 72%) ;
+	--pending-4:hsl(210, 97%, 62%) ;
+
+	//warning
+	--warning-1:hsl(56, 100%, 92%) ;
+	--warning-2:hsl(55, 100%, 77%) ;
+	--warning-3: hsl(54, 100%, 71%);
+	--warning-4: hsl(54, 100%, 62%);
+
+	//danger
+	--danger-1: hsl(23, 100%, 92%);
+	--danger-2: hsl(18, 100%, 85%);
+	--danger-3: hsl(8, 100%, 71%);
+	--danger-4:hsl(4, 100%, 61%) ;
+
+	//fonts
+	--font-default: "Montserrat", sans-serif;
+}

@@ -1,0 +1,5 @@
+1.icon font size = 15px 
+2. icon text h2 = 14px
+3.regular h2 = 26px
+4.maximum width = 1288px
+5.icons name= bx-menu,chevron,bell,plus,line-chart,checklist,time-five,search,dots-horigontal,cogs,user,
